@@ -28,3 +28,5 @@ To use this loading screen, follow the steps below:
 1. **Video Background**: Ensure you have a video file (e.g., `.webm`) and set it in `index.html` as the source for `<video id="backgroundVideo">`.
 2. **Music**: Add your music files (e.g., `.mp3`) to the `assets/` folder. By default, `assets/music1.mp3` is set. Update `musicTracks` in `script.js` if you have multiple tracks.
 3. **Logos**: Ensure you have logo images (e.g., `.png`, `.svg`) and set them in `index.html` as the source for `<img class="logo-image">` and `<img class="main-logo-image">`.
+
+Video: https://r2.fivemanage.com/ZMhc0odfLxGKaY39KdJhB/hs_loading.mp4
